@@ -3,5 +3,5 @@ def x
 end
 
 def a
-  puts "A"
+  puts "a"
 end

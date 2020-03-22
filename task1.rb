@@ -1,5 +1,5 @@
 def x
-  puts 1
+  puts "X"
 end
 
 def a
